@@ -9,7 +9,7 @@ Calculadora con React js
 `bash`
 
 $ git clone https://github.com/Mauriciocba/ContadorClick-React.git
-$ cd /contador-clics/
+$ cd  .\contador-clics\
 $ npm install
 $ npm start
 
