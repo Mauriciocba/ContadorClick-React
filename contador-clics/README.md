@@ -4,13 +4,16 @@ Mauricio Torres
 
 # Descripcion del proyecto
 
-Calculadora con React js
+Contador de click con React js
 
 `bash`
 
 $ git clone https://github.com/Mauriciocba/ContadorClick-React.git
+
 $ cd  .\contador-clics\
+
 $ npm install
+
 $ npm start
 
 `npm`
